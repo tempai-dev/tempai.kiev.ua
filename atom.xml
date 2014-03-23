@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tempai]]></title>
+  <link href="http://tempai.kiev.ua/atom.xml" rel="self"/>
+  <link href="http://tempai.kiev.ua/"/>
+  <updated>2014-03-23T20:35:36+02:00</updated>
+  <id>http://tempai.kiev.ua/</id>
+  <author>
+    <name><![CDATA[max ulidtko ]]></name>
+    <email><![CDATA[info@tempai.kiev.ua]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
