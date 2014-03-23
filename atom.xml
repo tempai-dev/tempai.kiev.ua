@@ -4,13 +4,28 @@
   <title><![CDATA[Tempai]]></title>
   <link href="http://tempai.kiev.ua/atom.xml" rel="self"/>
   <link href="http://tempai.kiev.ua/"/>
-  <updated>2014-03-23T20:35:36+02:00</updated>
+  <updated>2014-03-24T00:55:24+02:00</updated>
   <id>http://tempai.kiev.ua/</id>
   <author>
-    <name><![CDATA[max ulidtko ]]></name>
+    <name><![CDATA[Max ulidtko]]></name>
     <email><![CDATA[info@tempai.kiev.ua]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello internet!]]></title>
+    <link href="http://tempai.kiev.ua/blog/2014/03/24/hello-internet/"/>
+    <updated>2014-03-24T00:48:14+02:00</updated>
+    <id>http://tempai.kiev.ua/blog/2014/03/24/hello-internet</id>
+    <content type="html"><![CDATA[<h4>We have a website!</h4>
+
+<p>But it&rsquo;s still under construction.</p>
+
+<p>So have a nice picture instead:</p>
+
+<p><img src="http://media-cache-ec0.pinimg.com/236x/27/47/2c/27472c3eef60cc96354d66ccd77b1fa5.jpg" alt="picture" /></p>
+]]></content>
+  </entry>
   
 </feed>
