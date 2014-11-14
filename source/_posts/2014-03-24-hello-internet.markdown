@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: twbs
 title: "Hello internet!"
 date: 2014-03-24 00:48:14 +0200
 comments: true
