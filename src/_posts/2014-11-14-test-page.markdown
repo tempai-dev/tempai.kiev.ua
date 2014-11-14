@@ -1,6 +1,8 @@
 ---
-title: Jekyll test
 layout: default
+title: Hello Jekyll!
 ---
+
+# Jekyll test
 
 Hooooooraaaaay!

@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Looking for the source? Visit out GitHub! -->
+    <!-- Looking for the source? Visit our GitHub! -->
     <!-- https://github.com/tempai-dev -->
 
-    <title>Jekyll test</title>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{site.title}}</title>
 
     <!-- Bootstrap -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <![endif]-->
   </head>
   <body>
-    <h1>Hello Jekyll!</h1>
+  {{ content }}
 
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js" type="application/javascript"></script>
   </body>

@@ -1,2 +1,5 @@
 source: src
 destination: _site
+plugins: plugins
+
+title: Tempai
