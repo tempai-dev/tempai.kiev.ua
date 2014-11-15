@@ -12,3 +12,8 @@ indent_style = tab
 [**.html]
 indent_style = space
 indent_size = 2
+
+[**.markdown]
+max_line_length = 1500
+indent_style = space
+indent_size = 4
