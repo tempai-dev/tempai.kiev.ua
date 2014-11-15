@@ -1,5 +1,5 @@
 # What's this?
-Here we push forward our glorious vision of the Tempai [website](tempai.kiev.ua).
+Here we push forward our glorious vision of the Tempai [website](http://tempai.kiev.ua).
 
 [This repo] in particular is about the static frontend based on [Jekyll].
 
