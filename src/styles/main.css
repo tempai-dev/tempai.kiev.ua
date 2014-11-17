@@ -1,3 +1,13 @@
-.first-page {
-	text-align: center
+body {
+	font-family: 'Open Sans', sans-serif;
 }
+
+.intro {
+	text-align: center;
+	width: 60%;
+}
+
+.intro h1 {
+	font-family: Oswald, serif;
+}
+
