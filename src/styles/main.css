@@ -4,10 +4,9 @@ body {
 
 .intro {
 	text-align: center;
-	width: 60%;
 }
 
 .intro h1 {
 	font-family: Oswald, serif;
+	text-shadow: 2px 2px 1px gray;
 }
-
