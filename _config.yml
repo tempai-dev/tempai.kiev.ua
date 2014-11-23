@@ -3,3 +3,7 @@ destination: build
 plugins: plugins
 
 title: Tempai
+
+ga_tracking_id: UA-57014658-1
+ga_nobounce_timeout: 30000 # ms
+clicky_tracking_id: 100792546
