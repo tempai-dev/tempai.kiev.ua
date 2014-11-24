@@ -8,3 +8,4 @@ Items to remember for *some time later™*.
  * l10n
  * the frontpage content, off course
  * test layout on weird devices
+ * offline fallbacks for twbs, webfonts &c
