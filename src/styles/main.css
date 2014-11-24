@@ -10,3 +10,9 @@ body {
 	font-family: Oswald, serif;
 	text-shadow: 2px 2px 1px gray;
 }
+
+section img {
+	/* TODO: LESS /* inherit from img-responsive */
+	width: 100%;
+	height: auto;
+}
