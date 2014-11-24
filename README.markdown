@@ -14,6 +14,12 @@ Tempai is a local [Japanese Riichi Mahjong] club, named after the "ready" condit
 # How to set up?
 Well, move somewhere towards this:
 
-    $ gem install jekyll
-    $ jekyll
+    $ bundle install
+    $ jekyll serve
 
+Then just open the browser at `localhost:4000` and improve something.
+
+Note that the current site content may mismatch `master` to a degree.
+
+# How to contribute?
+Consider taking a look at [TODO](TODO.markdown). Send pull-requests.
