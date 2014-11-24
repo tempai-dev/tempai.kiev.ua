@@ -7,5 +7,6 @@ Items to remember for *some time later™*.
  * plug in [less](http://lesscss.org/) styling
  * l10n
  * the frontpage content, off course
+ * some glyphicons?
  * test layout on weird devices
  * offline fallbacks for twbs, webfonts &c
