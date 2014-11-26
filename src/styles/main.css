@@ -1,5 +1,32 @@
 body {
 	font-family: 'Open Sans', sans-serif;
+
+	background-image: url("/img/bg-green-noise-1.png");
+}
+
+body p, body h1 {
+	color: white;
+}
+
+section {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+body section:first-of-type {
+	background-image: url("/img/tiles-1.jpg");
+	background-size: cover;
+}
+
+img.logo {
+	/* TODO: less (inherit from img-responsive) */
+	float: left;
+	width: 50%;
+	/*border-radius: 5px;*/
 }
 
 .intro {
@@ -11,8 +38,12 @@ body {
 	text-shadow: 2px 2px 1px gray;
 }
 
-section img {
-	/* TODO: LESS /* inherit from img-responsive */
-	width: 100%;
-	height: auto;
+.intro h3 {
+	margin-bottom: 0.8em;
+	margin-top: 0.8em;
+}
+
+#contacts {
+	background-image: url("/img/riichi-photo-1.jpg");
+	height: 100%;
 }

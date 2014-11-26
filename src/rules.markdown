@@ -8,7 +8,6 @@ This is much like the differing rulesets of poker or billiards.
 
 We play by [Japanese][Riichi] *Riichi* rules. Kuitan nashi, aka ari.
 
-![riichi table photo](/img/riichi-photo-1.jpg)
 
 [Mahjong]: https://en.wikipedia.org/wiki/Mahjong
 [Riichi]: https://en.wikipedia.org/wiki/Japanese_Mahjong

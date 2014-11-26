@@ -3,32 +3,71 @@ layout: default
 ---
 
 <section>
-  <div class="intro jumbotron">
-    <h1>Tempai</h1>
-    <h2>the Kiev Riichi Mahjong club</h2>
-    <p>Well... long story short: we play Riichi Mahjong.</p>
-    <a class="btn btn-lg btn-primary" role="button" href="#join">
-      Learn how to join</a>
+  <div class="container">
+    <div class="intro jumbotron">
+      <img class="logo img-thumbnail" src="/img/tempai-logo-lg.png" alt="Tempai logo">
+      <h1>Tempai</h1>
+      <h2>the Kiev Riichi Mahjong club</h2>
+      <h3>We play Riichi Mahjong.</h3>
+      <p><a class="btn btn-lg btn-primary" role="button" href="#join">
+        How to join</a></p>
+      <div class="clearfix"></div>
+    </div>
   </div>
 </section>
 
 <section id="about-mahjong">
-  {% capture rules %}{% include_relative rules.markdown %}{% endcapture %}
-  {{ rules | markdownify }}
-  <a class="btn btn-lg btn-success" role="button"
-     href="{{ root_url }}/docs/EMA_riichi_2012_EN.pdf">
-    The EMA rules PDF (en)</a>
+  <div class="container">
+    {% capture rules %}{% include_relative rules.markdown %}{% endcapture %}
+    {{ rules | markdownify }}
+    <a class="btn btn-lg btn-success" role="button"
+       href="{{ root_url }}/docs/EMA_riichi_2012_EN.pdf">
+      The EMA rules PDF (en)</a>
+  </div>
 </section>
 
 <section id="join">
-  <h1>Join us</h1>
-  <p><em>how to join</em> <span class="label label-warning">TODO</span></p>
+  <div class="container">
+    <h1>Join us</h1>
+    <p><em>how to join</em> <span class="label label-warning">TODO</span></p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+  </div>
 </section>
 
 <footer id="contacts">
-  <h1>Contacts</h1>
-  <p>
-    <em>contact points for reaching the club</em>
-    <span class="label label-warning">TODO</span>
-  </p>
+  <div class="container">
+    <h1>Contacts</h1>
+    <p>
+      <em>contact points for reaching the club</em>
+      <span class="label label-warning">TODO</span>
+    </p>
+    <div class="row">
+      <div class="col-md-6">
+        <h3>Personal contacts</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <h3>Social media</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
+    </div>
+  </div>
 </footer>
