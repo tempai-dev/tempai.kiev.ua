@@ -6,7 +6,7 @@ Items to remember for *some time later™*.
  * Atom/RSS (only for blog probably)
  * `{robots,humans}.txt`
  * sitemap, keywords
- * plug in [less](http://lesscss.org/) styling
+ * <strike>plug in [less](http://lesscss.org/) styling</strike>
  * l10n
  * the frontpage content, off course
  * some glyphicons?
