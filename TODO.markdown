@@ -1,6 +1,6 @@
 Items to remember for *some time later™*.
 
- * fix navbar collapsing
+ * <strike>fix navbar collapsing</strike>
  * CSS3 scrolling to :active
  * Credit image authors
  * Atom/RSS (only for blog probably)
