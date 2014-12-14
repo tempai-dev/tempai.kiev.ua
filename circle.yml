@@ -6,7 +6,7 @@ test:
   pre:
     - bundle exec -- jekyll build
   override:
-    - html5validator
+    - html5validator --root=build
 
 general:
   artifacts:
