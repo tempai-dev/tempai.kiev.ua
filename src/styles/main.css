@@ -17,6 +17,12 @@ section {
 	margin-bottom: 0;
 }
 
+.navbar-toggle {
+	/* override bootstrap's right floating of the navbar toggle */
+	float: left;
+	margin-left: 15px;
+}
+
 body section:first-of-type {
 	background-image: url("/img/tiles-1.jpg");
 	background-size: cover;
