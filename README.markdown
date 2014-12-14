@@ -1,3 +1,5 @@
+[![CI status badge](https://circleci.com/gh/tempai-dev/tempai.kiev.ua.png?style=shield&circle-token=2c7b7ddd5c0420af50b2f052bb11102b5da9aa7e)](https://circleci.com/gh/tempai-dev/tempai.kiev.ua/tree/master)
+
 # What's this?
 Here we push forward our glorious vision of the Tempai [website](http://tempai.kiev.ua).
 
