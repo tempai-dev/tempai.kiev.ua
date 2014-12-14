@@ -1,6 +1,13 @@
 dependencies:
   pre:
     - sudo pip install html5validator
+
 test:
+  pre:
+    - jekyll build
   override:
     - html5validator
+
+general:
+  artifacts:
+    - "build"
