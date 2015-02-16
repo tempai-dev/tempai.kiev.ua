@@ -25,4 +25,5 @@ Then just open the browser at `localhost:4000` and improve something.
 Note that the current site content may mismatch `master` to a degree.
 
 # How to contribute?
-Consider taking a look at [TODO](TODO.markdown). Send pull-requests.
+Consider taking a look at [TODO](TODO.markdown) and [this document](doc/design-and-impl-spec.markdown).
+Send pull-requests.
