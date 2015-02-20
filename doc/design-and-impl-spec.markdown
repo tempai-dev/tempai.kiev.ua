@@ -131,4 +131,3 @@ Documentary collaboration <strike>at https://docs.tempai.kiev.ua (Google Apps in
 
 Mail for notifications info@tempai.kiev.ua (Google Apps)
 
-Development groupchat at gitter.im (see GitHub).
