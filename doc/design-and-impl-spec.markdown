@@ -71,6 +71,8 @@ However, a big deal of flexibility is possible with 3 player tables (sanma, a.k.
 ### Scenarios
 
  1. Club member wishes to play at any future date. He/she inspects the schedule and decides further.
+ 
+   Events can be planned for IRL meetups and virtual eg Tenho, MahjongTime etc.
 
  2. Club member wishes to play at a specific game already scheduled for a future date.
 
