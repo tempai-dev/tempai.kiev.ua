@@ -80,6 +80,9 @@ However, a big deal of flexibility is possible with 3 player tables (sanma, a.k.
 
  4. A guest visitor wishes to inspect the schedule.
 
+ 5. Chat: symbolic event log mixed with user messages/status changes. Websockets? Roster with members online/offline.
+ 
+
 ### Privacy
 
 A planned game session may be created publicly, or in private with a specified group of members (set either manually by the user, or through a user-group/friend-circle/forum-topic mechanism).
