@@ -116,6 +116,17 @@ The total overlap of a seating is defined as the sum of table overlaps.
 
 Table overlap is defined as the amount of *"already played with in the session"* players, summed relative to each player.
 
+# Notification service
+
+One of core components which sends out notifications. Email, SMS, twitter, Telegram, whatnot.
+
+Personal notifications can be about: 
+ * start/approach of a game event in which the player is participating, as configured via event creation/join like in calendar apps
+ * game invites notifications
+ * standard user registration routines: email confirmation, password reset.
+ * etc
+
+
 
 ----------------
 # Implementation
@@ -135,4 +146,3 @@ Language of development: preferably **Ruby**, but isolated components can be dev
 Documentary collaboration <strike>at https://docs.tempai.kiev.ua (Google Apps instance)</strike> at GitHub.
 
 Mail for notifications info@tempai.kiev.ua (Google Apps)
-
