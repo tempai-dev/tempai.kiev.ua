@@ -72,20 +72,35 @@ Events can be planned for IRL meetups as well as virtual, e.g. Tenho, MahjongTim
 
 ### User scenarios
 
- 1. Club member wishes to play at any future date. He/she inspects the schedule and decides further.
+ 1. Club member wishes to play at **any** future date. He/she inspects the schedule and decides further.
 
- 2. Club member wishes to play at a specific game already scheduled for a future date.
+ From the architecture perspective, this usecase is just "fetch, filter, format and display the current schedule".
+
+ 2. Club member wishes to play at a **specific** game already scheduled by someone else for a future date.
+
+ This is when a member `join`-s an existing game.
 
  3. Club member wants to schedule his own event.
 
+ This is where game events are created.
+
  4. A guest visitor wishes to inspect the schedule.
 
- 5. Chat: symbolic event log mixed with user messages/status changes. Websockets? Roster with members online/offline.
+ Basically, this coincides with use case 1 modulo privacy. Obviously, the guest only sees public events.
 
+ 5. Club member **is in doubts** and can't decide, but stays engaged with the interface (i.e. the tab isn't closed yet). We can help with a [chat](#Chat) and social tools (ping someone, invite friends, modmessage/flag), maybe a separate Help section with guidance.
 
 ### Privacy
 
 A planned game session may be created publicly, or in private with a specified group of members (set either manually by the user, or through a user-group/friend-circle/forum-topic mechanism).
+
+### Chat
+Symbolic event log intermixed with user conversations and status changes.
+
+Websockets? Whatever.
+
+Maybe a roster with members online/offline (again, with due respect to privacy).
+
 
 # Seating generator
 
