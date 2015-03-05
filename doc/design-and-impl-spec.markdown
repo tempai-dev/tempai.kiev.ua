@@ -68,11 +68,11 @@ Mahjong games require 4 players per table. To ease and automate organization of 
 
 However, a big deal of flexibility is possible with 3 player tables (sanma, a.k.a. "hiroshima"), 5 player tables, up to 6 player tables (4+2 spectators) and 2 player bamboo/minefield sessions.
 
+Events can be planned for IRL meetups as well as virtual, e.g. Tenho, MahjongTime etc.
+
 ### User scenarios
 
  1. Club member wishes to play at any future date. He/she inspects the schedule and decides further.
-
-   Events can be planned for IRL meetups and virtual eg Tenho, MahjongTime etc.
 
  2. Club member wishes to play at a specific game already scheduled for a future date.
 
