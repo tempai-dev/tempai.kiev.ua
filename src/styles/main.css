@@ -51,5 +51,7 @@ img.logo {
 
 #contacts {
 	background-image: url("/img/riichi-photo-1.jpg");
+	color: white;
+
 	height: 100%;
 }
