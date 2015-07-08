@@ -56,6 +56,8 @@ img.logo {
 	height: 100%;
 }
 
+#contacts div.media { margin-bottom: 15px }
+
 .socnets-cell {
 	background-color: transparent;
 	text-align: center;
