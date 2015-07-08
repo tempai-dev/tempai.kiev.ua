@@ -55,3 +55,22 @@ img.logo {
 
 	height: 100%;
 }
+
+.socnets-cell {
+	background-color: transparent;
+	text-align: center;
+
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+
+	text-shadow: 2px -2px 5px #a4e4b5, -2px 2px 5px #a4e4b5;
+}
+
+.socnets-cell a {
+	color: white;
+}
+
+.socnets-cell img {
+	padding-bottom: 0.8em;
+}
+
