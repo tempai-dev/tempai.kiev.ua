@@ -10,7 +10,9 @@ layout: default
       <h2>the Kiev Riichi Mahjong club</h2>
       <h3>We play Riichi Mahjong.</h3>
       <p><a class="btn btn-lg btn-primary" role="button" href="#join">
-        How to join</a></p>
+        How to join <span class="glyphicon glyphicon-chevron-right"/></a></p>
+      <p><a class="btn btn-lg btn-success" role="button" href="#about-mahjong">
+        What is Riichi Mahjong <span class="glyphicon glyphicon-question-sign"/></a></p>
       <div class="clearfix"></div>
     </div>
   </div>
@@ -22,7 +24,8 @@ layout: default
     {{ rules | markdownify }}
     <a class="btn btn-lg btn-success" role="button"
        href="{{ root_url }}/docs/EMA_riichi_2012_EN.pdf">
-      The EMA rules PDF (en)</a>
+      <strong>The EMA rules PDF (en) <span class="glyphicon glyphicon-download-alt"/>
+      </strong></a>
   </div>
 </section>
 
