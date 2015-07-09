@@ -1,0 +1,44 @@
+@font-face {
+	font-family: "Bonzai Regular";
+	src: url("bonzai.ttf");
+}
+
+@font-face {
+	font-family: "ChinaCyr Regular";
+	src: url("ChinaCyr.ttf");
+}
+
+@font-face {
+	font-family: "Han Zi Regular";
+	src: url("HanZi.ttf");
+}
+
+@font-face {
+	font-family: "MandarinC Regular";
+	src: url("mandarinc.ttf");
+}
+
+@font-face {
+	font-family: "Japonesa Regular";
+	src: url("Japonesa.ttf");
+}
+
+@font-face {
+	font-family: "Japonesa Outline Regular";
+	src: url("JaponesaOutline.ttf");
+}
+
+@font-face {
+	font-family: "Japonesa Shadow Regular";
+	src: url("JaponesaShadow.ttf");
+}
+
+@font-face {
+	font-family: "Ogilvie Regular";
+	src: url("ogilvie.ttf");
+}
+
+@font-face {
+	font-family: "Still Time Regular";
+	src: url("stilltime.ttf");
+}

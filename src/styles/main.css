@@ -54,9 +54,21 @@ img.logo {
 	color: white;
 
 	height: 100%;
+
+	font-weight: 600;
+	text-shadow: 2px -2px 5px #a4e4b5, -2px 2px 5px #a4e4b5;
 }
 
 #contacts div.media { margin-bottom: 15px }
+#contacts div.media h4 { margin-bottom: .8em }
+#contacts div.media p { margin-bottom: .2em }
+#contacts div.media p {
+	font-family: 'Droid Sans Mono';
+}
+
+#contacts div.row { margin-top: 2em; margin-bottom: 10em; }
+
+h1 { font-family: "Han Zi Regular"; }
 
 .socnets-cell {
 	background-color: transparent;
@@ -64,8 +76,6 @@ img.logo {
 
 	margin-top: 1.5em;
 	margin-bottom: 1.5em;
-
-	text-shadow: 2px -2px 5px #a4e4b5, -2px 2px 5px #a4e4b5;
 }
 
 .socnets-cell a {
