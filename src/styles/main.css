@@ -49,6 +49,10 @@ img.logo {
 	margin-top: 0.8em;
 }
 
+section#about-mahjong p, section#about-mahjong h1 {
+	text-shadow: 2px 2px 5px black, -2px -2px 3px black;
+}
+
 section#about-mahjong div.ornament {
 	margin-top: -2em;
 	float: right;
