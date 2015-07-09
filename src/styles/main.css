@@ -49,6 +49,15 @@ img.logo {
 	margin-top: 0.8em;
 }
 
+section#about-mahjong div.ornament {
+	margin-top: -2em;
+	float: right;
+	width: 1px;
+	height: 1px;
+	overflow: visible;
+}
+section#about-mahjong div.ornament img { margin-left: -382px; }
+
 #contacts {
 	background-image: url("/img/riichi-photo-1.jpg");
 	color: white;
