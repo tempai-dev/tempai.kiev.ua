@@ -49,9 +49,23 @@ img.logo {
 	margin-top: 0.8em;
 }
 
-section#about-mahjong p, section#about-mahjong h1 {
-	text-shadow: 2px 2px 5px black, -2px -2px 3px black;
+h1 {
+	font-family: "Han Zi Regular";
+	text-shadow: 2px 2px 3px black, -2px -2px 3px black;
 }
+
+p a {
+	color: white;
+	border-bottom: 1px white dotted;
+	text-decoration: none;
+}
+p a:hover {
+	color: white;
+	border-bottom: 1px white solid;
+	text-decoration: none;
+}
+a[role=button] { text-decoration: none; }
+
 
 section#about-mahjong div.ornament {
 	margin-top: -2em;
