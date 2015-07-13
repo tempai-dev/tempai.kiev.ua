@@ -74,7 +74,10 @@ section#about-mahjong div.ornament {
 	height: 1px;
 	overflow: visible;
 }
-section#about-mahjong div.ornament img { margin-left: -382px; }
+section#about-mahjong div.ornament img {
+	margin-left: -382px;
+	height: 500px;
+}
 
 #contacts {
 	background-image: url("/img/riichi-photo-1.jpg");
