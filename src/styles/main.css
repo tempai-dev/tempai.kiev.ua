@@ -81,25 +81,35 @@ section#about-mahjong div.ornament img {
 
 #contacts {
 	background-image: url("/img/riichi-photo-1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+	background-color: black;
 	color: white;
-
-	height: 100%;
-
-	font-weight: 600;
-	text-shadow: 2px -2px 5px #a4e4b5, -2px 2px 5px #a4e4b5;
 }
 
-#contacts div.media { margin-bottom: 15px }
-#contacts div.media h4 { margin-bottom: .8em }
+#contacts div.media {
+	margin-bottom: .8em;
+	background-color: #353f1d;
+	border-radius: 3px;
+	max-width: 24em;
+}
+#contacts div.media h4 {
+	margin-bottom: .8em;
+	padding-top: .6em;
+}
 #contacts div.media p { margin-bottom: .2em }
 #contacts div.media p {
 	font-family: 'Droid Sans Mono';
+	font-size: 12px;
 }
 
-#contacts div.row { margin-top: 2em; margin-bottom: 10em; }
-#contacts div.row .container { width: 100%; }
-
-h1 { font-family: "Han Zi Regular"; }
+#contacts > div.row { margin-top: 2em; margin-bottom: 10em; }
+#contacts .communities div.container {
+	width: 100%;
+	margin-top: 0;
+}
 
 .socnets-cell {
 	background-color: transparent;
