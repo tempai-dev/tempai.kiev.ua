@@ -89,18 +89,18 @@ section#about-mahjong div.ornament img {
 	color: white;
 }
 
-#contacts div.media {
+#contacts div.pcard {
 	margin-bottom: .8em;
 	background-color: #353f1d;
 	border-radius: 3px;
 	max-width: 24em;
 }
-#contacts div.media h4 {
+#contacts div.pcard h4 {
 	margin-bottom: .8em;
 	padding-top: .6em;
 }
-#contacts div.media p { margin-bottom: .2em }
-#contacts div.media p {
+#contacts div.pcard p { margin-bottom: .2em }
+#contacts div.pcard p {
 	font-family: 'Droid Sans Mono';
 	font-size: 12px;
 }
