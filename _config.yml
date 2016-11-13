@@ -1,6 +1,6 @@
 source: src
 destination: build
-plugins: plugins
+# plugins_dir: plugins
 
 title: Tempai
 
