@@ -10,9 +10,9 @@ layout: default
       <h2>the Kiev Riichi Mahjong club</h2>
       <h3>We play Riichi Mahjong.</h3>
       <p><a class="btn btn-lg btn-primary" role="button" href="#join">
-        How to join <span class="glyphicon glyphicon-chevron-right"/></a></p>
+        How to join <span class="glyphicon glyphicon-chevron-right"></span></a></p>
       <p><a class="btn btn-lg btn-success" role="button" href="#about-mahjong">
-        What is Riichi Mahjong <span class="glyphicon glyphicon-question-sign"/></a></p>
+        What is Riichi Mahjong <span class="glyphicon glyphicon-question-sign"></span></a></p>
       <div class="clearfix"></div>
     </div>
   </div>
@@ -20,13 +20,13 @@ layout: default
 
 <section id="about-mahjong">
   <div class="container">
-    <div class="ornament"><img src="/styles/ornaments/floral-4.svg" alt=""></img></div>
+    <div class="ornament"><img src="/styles/ornaments/floral-4.svg" alt=""></div>
 
     {% capture rules %}{% include_relative rules.markdown %}{% endcapture %}
     {{ rules | markdownify }}
     <a class="btn btn-lg btn-success" role="button"
        href="{{ root_url }}/docs/EMA_riichi_2012_EN.pdf">
-      <strong>The EMA rules PDF (en) <span class="glyphicon glyphicon-download-alt"/>
+      <strong>The EMA rules PDF (en) <span class="glyphicon glyphicon-download-alt"></span>
       </strong></a>
   </div>
 </section>
@@ -50,7 +50,7 @@ layout: default
         <!-- max -->
         <div class="media pcard">
           <div class="media-left media-top">
-            <img class="media-object img-rounded" src="/img/face-max-1.png" alt="face photo"></img>
+            <img class="media-object img-rounded" src="/img/face-max-1.png" alt="face photo">
           </div>
           <div class="media-body">
             <h4 class="media-heading">Maksym Ivanov</h4>
@@ -68,7 +68,7 @@ layout: default
         <!-- anya -->
         <div class="media pcard">
           <div class="media-left media-top">
-            <img class="media-object img-rounded" src="/img/face-anya-1.png" alt="face photo"></img>
+            <img class="media-object img-rounded" src="/img/face-anya-1.png" alt="face photo">
           </div>
           <div class="media-body">
             <h4 class="media-heading">Anna Zubenko</h4>
