@@ -17,7 +17,7 @@ Tempai is a local [Japanese Riichi Mahjong] club, named after the "ready" condit
 Well, move somewhere towards this:
 
     $ bundle install
-    $ jekyll serve
+    $ bundle exec -- jekyll serve
 
 Then just open the browser at `localhost:4000` and improve something.
 
